@@ -23,7 +23,7 @@
   font-family: "Playfair Display", serif;
   font-weight: 800;
   font-size: 48px;
-  text-transform: lowercase;
+
   color: #006400;
   margin-bottom: 0px;
   line-height: 50px;
@@ -32,7 +32,7 @@
   font-family: "Playfair Display", serif;
   font-weight: 800;
   font-size: 48px;
-  text-transform: lowercase;
+
   color: #228b22;
   margin-left: 50px;
   margin-top: 0;
@@ -59,7 +59,7 @@
     text-align: center;
     font-weight: 600;
     font-size: 40px;
-    text-transform: lowercase;
+
     line-height: 50px;
   }
   .section-title2 h2 {
@@ -71,4 +71,25 @@
     margin-top: 0;
     line-height: 0.8;
   }
+}
+
+.about-farm {
+  background-color: #228b22;
+  color: #fff;
+}
+
+.whatwedo {
+  background-color: #fff;
+  color: black;
+}
+
+.containerhead h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 72px;
+  color: #006400;
+}
+
+.containertextright2 {
+  padding-left: 25px;
 }
