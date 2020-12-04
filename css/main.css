@@ -19,6 +19,13 @@
 .landing {
   height: 750px;
 }
+.landingbtn {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 600;
+  margin-left: 35%;
+  margin-bottom: 5%;
+}
 .section-title1 h2 {
   font-family: "Playfair Display", serif;
   font-weight: 800;
@@ -37,13 +44,7 @@
   margin-top: 0;
   line-height: 0.8;
 }
-.landingbtn {
-  text-align: center;
-  font-size: 16px;
-  font-weight: 600;
-  margin-left: 35%;
-  margin-bottom: 5%;
-}
+
 .info {
   padding: 8% 0px 3px 0px;
 }
@@ -78,11 +79,6 @@
   color: #fff;
 }
 
-.whatwedo {
-  background-color: #fff;
-  color: black;
-}
-
 .containerhead h2 {
   font-family: "Playfair Display", serif;
   font-weight: 600;
@@ -92,4 +88,18 @@
 
 .containertextright2 {
   padding-left: 25px;
+}
+
+.whatwedo {
+  background-color: #fff;
+  color: black;
+}
+.whatwedo p {
+  line-height: 1.5;
+}
+.whatwedo .card {
+  box-sizing: border-box;
+  border: solid green;
+  padding: 10px;
+  border-radius: 15px;
 }
