@@ -22,8 +22,7 @@
 .section-title1 h2 {
   font-family: "Playfair Display", serif;
   font-weight: 800;
-  font-size: 48px;
-
+  font-size: 60px;
   color: #006400;
   margin-bottom: 0px;
   line-height: 50px;
@@ -31,7 +30,7 @@
 .section-title2 h2 {
   font-family: "Playfair Display", serif;
   font-weight: 800;
-  font-size: 48px;
+  font-size: 60px;
 
   color: #228b22;
   margin-left: 50px;
@@ -51,6 +50,7 @@
 
 .sec-title-one h2 {
   font-family: "Playfair Display", serif;
+  font-size: 56px;
   font-weight: 600;
   color: #006400;
 }
@@ -86,7 +86,7 @@
 .containerhead h2 {
   font-family: "Playfair Display", serif;
   font-weight: 600;
-  font-size: 72px;
+  font-size: 60px;
   color: #006400;
 }
 
