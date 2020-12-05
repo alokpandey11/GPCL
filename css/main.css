@@ -66,23 +66,6 @@
   font-weight: 600;
   color: #006400;
 }
-@media only screen and (max-width: 400px) {
-  .section-title1 h2 {
-    text-align: center;
-    font-weight: 600;
-    font-size: 40px;
-
-    line-height: 50px;
-  }
-  .section-title2 h2 {
-    text-align: center;
-    font-weight: 600;
-    font-size: 38px;
-    margin-left: 5px;
-    margin-top: 0;
-    line-height: 0.8;
-  }
-}
 
 .about-farm {
   background-color: #228b22;
@@ -189,4 +172,38 @@
   font-size: 16px;
   text-align: center;
   color: #fff;
+}
+
+@media only screen and (max-width: 400px) {
+  .landing {
+    height: 980px;
+  }
+  .memberbtn {
+    margin: 0;
+    padding: 8px;
+    position: relative;
+    top: 30px;
+    right: 40px;
+  }
+
+  .section-title1 h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+
+    line-height: 50px;
+  }
+  .section-title2 h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 38px;
+    margin-left: 5px;
+    margin-top: 0;
+    line-height: 0.8;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .memberbtn {
+    display: none;
+  }
 }
