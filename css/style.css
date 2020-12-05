@@ -1328,7 +1328,7 @@ img {
 .intro-section .inner-part .content-box .inner-box:before {
   content: "";
   position: absolute;
-  bottom: -250px;
+  bottom: -400px;
   right: 100%;
   margin-right: -110px;
   width: 570px;
@@ -1341,12 +1341,12 @@ img {
 .intro-section .inner-part .content-box .inner-box:after {
   content: "";
   position: absolute;
-  bottom: -250px;
+  bottom: -400px;
   left: 100%;
   margin-left: -110px;
   width: 570px;
   height: 510px;
-  background: url(../images/resource/crop-image-right.png) center top no-repeat;
+  background: url(../images/resource/fresh-vegitable.png) center top no-repeat;
   z-index: 1;
 }
 
@@ -6655,12 +6655,12 @@ body {
 
 .sah-top-right {
   position: absolute;
-  top: 0;
+  top: -60px;
   right: 0;
   width: 20vw;
   background-image: url(../images/environment/upborder.svg);
-  height: 50%;
-  opacity: 0.7;
+  height: 70%;
+  opacity: 1;
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: inherit;
